@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19132093.chunk.css",
+    "main.js": "/static/js/main.aed482a4.chunk.js",
+    "main.js.map": "/static/js/main.aed482a4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e5be717e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e5be717e.js.map",
+    "static/js/2.0a98bc02.chunk.js": "/static/js/2.0a98bc02.chunk.js",
+    "static/js/2.0a98bc02.chunk.js.map": "/static/js/2.0a98bc02.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.19132093.chunk.css.map": "/static/css/main.19132093.chunk.css.map",
+    "static/js/2.0a98bc02.chunk.js.LICENSE.txt": "/static/js/2.0a98bc02.chunk.js.LICENSE.txt",
+    "static/media/Navbar.css": "/static/media/1.58607849.jpg",
+    "static/media/2.002b4e04.jpg": "/static/media/2.002b4e04.jpg",
+    "static/media/3.6bf86835.jpg": "/static/media/3.6bf86835.jpg",
+    "static/media/logo-UPS-negro.710197c7.png": "/static/media/logo-UPS-negro.710197c7.png",
+    "static/media/logo-UPS.8ff04fff.png": "/static/media/logo-UPS.8ff04fff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5be717e.js",
+    "static/js/2.0a98bc02.chunk.js",
+    "static/css/main.19132093.chunk.css",
+    "static/js/main.aed482a4.chunk.js"
+  ]
+}
